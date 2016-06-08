@@ -1,6 +1,7 @@
 /**
  * Test memory map
 */
+import com.kiogora.memorymap.MemoryMap;
 class TestMemoryMap{
     public static void main(String...args){
       try {
