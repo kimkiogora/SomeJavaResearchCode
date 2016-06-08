@@ -2,6 +2,7 @@
  * Author: Kim Kiogora <kimkiogora@gmail.com>
  * Usage : Read Large Files
 */
+package com.kiogora.memorymap;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
