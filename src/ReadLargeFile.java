@@ -148,8 +148,8 @@ public class ReadLargeFile {
         ArrayList<String> listx;
 
         try {
-            mysql = new MySQL("localhost", "3306", "research", "root",
-                    "r00t", "AforkPool", 3);
+            mysql = new MySQL("localhost", "3306", "mydatabase", "******",
+                    "******", "mypool", 3);
         } catch (ClassNotFoundException ce) {
             ce.printStackTrace();
         } catch (InstantiationException ie) {
